@@ -11,7 +11,7 @@ I am a ordinary middle school student in China🇨🇳
 
 I have learned JavaScript, css, html, python,scratch and still learning c++😑
 
-Welcome to learn together!
+Welcome to learn together!👏
 
 # Template
 
