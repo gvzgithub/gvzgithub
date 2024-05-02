@@ -11,9 +11,12 @@ Hello!😀
 
 I am a ordinary middle school student in China😄
 
-I have learned JavaScript, css, html, python,scratch and still learning c++😑
-
 Welcome to learn together!👏
+
+I am good at <span > <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-46D9E0?style=flat-square&logo=python&logoColor=white" /> </span> and still learning <span > <img src="https://img.shields.io/badge/-C++-7CE046?style=flat-square&logo=c&logoColor=white" /> 
+
+I usually use ![Static Badge]( https://img.shields.io/badge/Pycharm-4DE046)
+, ![Static Badge]( https://img.shields.io/badge/Visual%20Studio-D946E0) and ![Static Badge]( https://img.shields.io/badge/Git-1F4EC4) tools for programming
 
 # Template
 
