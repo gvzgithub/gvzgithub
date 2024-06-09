@@ -37,6 +37,9 @@ I usually use ![Static Badge]( https://img.shields.io/badge/Pycharm-4DE046)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gvzgithub)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---------
+Pictures from the Internet, infringement please contact me to delete
+
 
 
 
