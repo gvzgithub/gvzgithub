@@ -1,4 +1,4 @@
-Last I back (yyyy-mm-dd,UTC+8):
+Last I back (yyyy-mm-dd,timezone Asia/Shanghai):
 
 2024-06-10
 
