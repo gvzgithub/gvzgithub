@@ -2,6 +2,8 @@ Last I back (yyyy-mm-dd,timezone Asia/Shanghai):
 
 2024-06-30
 
+I'm preparing for exams, so all the repositories will be on hiatus for a while
+
 -----------
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+homepage!;欢迎来到我的Github主页！&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
