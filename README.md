@@ -1,8 +1,6 @@
-Last I back (yyyy-mm-dd,timezone Asia/Shanghai):
+Last I back (yyyy-mm-dd,timezone Asia/Shanghai,UTC+8):
 
-2024-10-5
-
-I am sorry that I can not back github for a long time because this time I am so busy.Soooooooorry!
+2024-10-19
 
 -----------
 <p align="center">
@@ -19,7 +17,7 @@ I am a ordinary middle school student in China😄
 
 Welcome to learn together!👏
 
-I am good at <span > <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> , <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3" /> , <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> , <img src="https://img.shields.io/badge/-Python-46D9E0?style=flat-square&logo=python&logoColor=white" /> </span> and still learning <span > <img src="https://img.shields.io/badge/-C++-7CE046?style=flat-square&logo=c&logoColor=white" /> 
+I am good at these language: <span > <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> , <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3" /> , <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> , <img src="https://img.shields.io/badge/-Python-46D9E0?style=flat-square&logo=python&logoColor=white" /> , <span > <img src="https://img.shields.io/badge/-C++-7CE046?style=flat-square&logo=c&logoColor=white" /> 
 
 I usually use ![Static Badge]( https://img.shields.io/badge/Pycharm-4DE046)
 , ![Static Badge]( https://img.shields.io/badge/Visual%20Studio-D946E0) , ![Static Badge]( https://img.shields.io/badge/Git-1F4EC4) and ![Static Badge]( https://img.shields.io/badge/CLion-46D3E0) tools for programming
@@ -50,6 +48,6 @@ Pictures from the Internet, infringement please contact me to delete
 
 
 <!---
-gvzgithub/gvzgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gvzgithub/gvzgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
